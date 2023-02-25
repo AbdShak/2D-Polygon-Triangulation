@@ -1,4 +1,4 @@
-﻿Part I: Explanation
+# Part I: Explanation
 
 First of all, I included comments explain almost every step inside the code for the Triangulation process. You can read the comments inside the code instead of reading the points below and go to the test cases & resources in **Part II** & **Part III**. (note: If there is anything not explained well in **Part I** you can find more mathematically explanation as a resource in **Part III**)
 
@@ -33,7 +33,7 @@ First of all, I included comments explain almost every step inside the code for 
 
 
 
-Part II: Test Cases
+# Part II: Test Cases
 
 1) Rectangle Move Clockwise (from Candidate Challenge document):
 
@@ -122,20 +122,20 @@ Input: (note:  Just for testing purpose I entered this directly to our list of p
 output:
 ![](Aspose.Words.e166b7a8-3e5f-4d05-b24c-d21f2819f3ae.007.png)
 
-Part III: Resources
+# Part III: Resources
 
-\1) Calculate [area of Irregular Polygons](https://www.mathsisfun.com/geometry/area-irregular-polygons.html) using vertices (**Part I** point#6)
+1) Calculate [area of Irregular Polygons](https://www.mathsisfun.com/geometry/area-irregular-polygons.html) using vertices (**Part I** point#6)
 
-\2) [Ear Cutting for Simple Polygons](http://www-cgrl.cs.mcgill.ca/%7Egodfried/teaching/cg-projects/97/Ian/cutting_ears.html) by Ian Garton
+2) [Ear Cutting for Simple Polygons](http://www-cgrl.cs.mcgill.ca/%7Egodfried/teaching/cg-projects/97/Ian/cutting_ears.html) by Ian Garton
 
-\3) [Triangulation by Ear Clipping](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf) by David Eberly
+3) [Triangulation by Ear Clipping](https://www.geometrictools.com/Documentation/TriangulationByEarClipping.pdf) by David Eberly
 
-\4) [Online tool for Concave Polygon](http://www.mathopenref.com/polygonconcave.html)
+4) [Online tool for Concave Polygon](http://www.mathopenref.com/polygonconcave.html)
 
-\5) [Finding angle using cross product and dot product](http://mathhelpforum.com/calculus/100162-finding-angle-using-cross-product-dot-product.html) (**Part I** point#10)
+5) [Finding angle using cross product and dot product](http://mathhelpforum.com/calculus/100162-finding-angle-using-cross-product-dot-product.html) (**Part I** point#10)
 
-\6) [C# Helper](http://csharphelper.com/blog/) by Rod Stephens
+6) [C# Helper](http://csharphelper.com/blog/) by Rod Stephens
 
-\7) How to find a [point inside a polygon](http://stackoverflow.com/questions/4243042/c-sharp-point-in-polygon) (**Part I** point#10)
+7) How to find a [point inside a polygon](http://stackoverflow.com/questions/4243042/c-sharp-point-in-polygon) (**Part I** point#10)
 
-\8) Amazing tool to [draw polygon online](https://betravis.github.io/shape-tools/polygon-drawing/) (**Part II** Case#6 & Case#7)
+8) Amazing tool to [draw polygon online](https://betravis.github.io/shape-tools/polygon-drawing/) (**Part II** Case#6 & Case#7)
